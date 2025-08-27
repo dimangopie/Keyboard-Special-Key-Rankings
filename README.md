@@ -76,11 +76,11 @@ python main.py
 
 ## 特殊键的跨平台体验 🌐
 特殊键的行为会因操作系统和设备而异。请在不同平台上测试特殊键的功能，以确保其符合预期。
-- **Windows**：某些特殊键可能具有特定的功能。 🪟
-- **Linux**：某些键的行为可能需要额外的配置。 🐧
-- **MacOS**：某些键的功能可能与Windows不同。 🍎
-  - Ctrl -> Command
-  - Win -> Supper
+- **Windows 🪟**：某些特殊键可能具有特定的功能。
+- **Linux 🐧**：某些键的行为可能需要额外的配置。
+- **MacOS 🍎**：在MacOS系统中，部分键盘按键的功能与Windows系统有所不同，具体映射关系如下：
+  - Windows系统中的Ctrl键，在MacOS中对应为Command键（⌘）。
+  - Windows系统中的Win键（即带有Windows图标 的按键），在MacOS中对应为Super键（也称作“指挥键”）。 
 
 ## 贡献者指南 / Contribution Guidelines 🤝
 - **提出特殊键的描述、等级修改或新增建议**：你可以通过提交 Pull Request 来添加或修改特殊键的描述、等级等信息。
