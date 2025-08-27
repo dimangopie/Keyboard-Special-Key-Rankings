@@ -27,7 +27,7 @@ def parse_special_key_line(line: str) -> dict:
     try:
         special_key_dict["key_value"] = int(cleaned_list[1]) if cleaned_list[1] else -1
         special_key_dict["scan_code"] = int(cleaned_list[2].replace(' ', ''), base=16) if cleaned_list[2] else -1
-        special_key_dict["level_value"] = int(cleaned_list[3])
+        special_key_dict["level_value"] = int(cleaned_list[3]) if cleaned_list[1] else 0
         special_key_dict["description"] = cleaned_list[4]
     except ValueError:
         print(f"解析错误: {line}")
