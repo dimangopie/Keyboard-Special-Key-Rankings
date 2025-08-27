@@ -1,0 +1,58 @@
+#Special Keys : Key Values(Dec) : Scan Code(Hex)
+Escape (Esc)        : 27    : 01 00     : 1     :
+Tab                 : 9     : 0F 00     : 1     :
+Caps Lock           : 20    : 3A 00     : 4     :
+Left Windows        : 91    : 5B E0     : 2     :
+Left Shift          : 16    : 2A 00     : 0     :
+Left Ctrl           : 17    : 1D 00     : 0     :
+Left Alt            : 18    : 38 00     : 2     :
+Space               : 32    : 39 00     : 0     :
+Backspace           : 8     : 0E 00     : 0     :
+Enter               : 13    : 1C 00     : 1     :
+Right Windows       : 91    : 5C E0     : 4     :
+Right Shift         : 16    : 36 00     : 3     :
+Right Ctrl          : 17    : 1D E0     : 3     :
+Right Alt           : 18    : 38 E0     : 4     :
+Print Scroll (Prt)  : 44    : 37 E0     : 3     :
+Scroll Look (Scr)   : 145   : 46 00     : 3     :
+Pause Break (Pau)   : 19    : 22 E0     : 3     :
+Insert (Ins)        : 45    : 52 E0     : 4     :
+Delete (Del)        : 46    : 53 E0     : 2     :
+Home                : 36    : 47 E0     : 1     :
+End                 : 35    : 4F E0     : 1     :
+Page Up (PgUp)      : 33    : 49 E0     : 3     :
+Page Down (PgDn)    : 34    : 51 E0     : 3     :
+Up (↑)              : 38    : 50 E0     : 0     :
+Down (↓)            : 40    : 4B E0     : 0     :
+Left (←)            : 37    : 4D E0     : 0     :
+Right (→)           : 39    : 48 E0     : 0     :
+Num Look (Num)      : 144   : 45 00     : 3     :
+NumPad 0            : 96    : 52 00     : 3     :
+NumPad 1            : 97    : 4F 00     : 3     :
+NumPad 2            : 98    : 50 00     : 3     :
+NumPad 3            : 99    : 51 00     : 3     :
+NumPad 4            : 100   : 4B 00     : 3     :
+NumPad 5            : 101   : 4C 00     : 3     :
+NumPad 6            : 102   : 4D 00     : 3     :
+NumPad 7            : 103   : 47 00     : 3     :
+NumPad 8            : 104   : 48 00     : 3     :
+NumPad 9            : 105   : 49 00     : 3     :
+NumPad /            : 111   : 35 E0     : 3     :
+NumPad *            : 106   : 37 00     : 3     :
+NumPad -            : 109   : 4A 00     : 3     :
+NumPad +            : 107   : 4E 00     : 3     :
+NumPad .            : 110   : 53 00     : 3     :
+NumPad Enter        : 13    : 1C E0     : 3     :
+F1                  : 112   : 3B 00     : 4     :
+F2                  : 113   : 3C 00     : 1     :
+F3                  : 114   : 3D 00     : 1     :
+F4                  : 115   : 3E 00     : 4     :
+F5                  : 116   : 3F 00     : 3     :
+F6                  : 117   : 40 00     : 4     :
+F7                  : 118   : 41 00     : 4     :
+F8                  : 119   : 42 00     : 4     :
+F9                  : 120   : 43 00     : 4     :
+F10                 : 121   : 44 00     : 3     :
+F11                 : 122   : 57 00     : 3     :
+F12                 : 123   : 58 00     : 1     :
+Fn                  :       :           : 2     :

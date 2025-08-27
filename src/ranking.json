@@ -1,0 +1,431 @@
+{
+    "0": {
+        "level_value": 0,
+        "level_name": "夯",
+        "keys": [
+            {
+                "level_value": 0,
+                "name": "Left Shift",
+                "key_value": 16,
+                "scan_code": 10752,
+                "description": ""
+            },
+            {
+                "level_value": 0,
+                "name": "Left Ctrl",
+                "key_value": 17,
+                "scan_code": 7424,
+                "description": ""
+            },
+            {
+                "level_value": 0,
+                "name": "Space",
+                "key_value": 32,
+                "scan_code": 14592,
+                "description": ""
+            },
+            {
+                "level_value": 0,
+                "name": "Backspace",
+                "key_value": 8,
+                "scan_code": 3584,
+                "description": ""
+            },
+            {
+                "level_value": 0,
+                "name": "Up (↑)",
+                "key_value": 38,
+                "scan_code": 20704,
+                "description": ""
+            },
+            {
+                "level_value": 0,
+                "name": "Down (↓)",
+                "key_value": 40,
+                "scan_code": 19424,
+                "description": ""
+            },
+            {
+                "level_value": 0,
+                "name": "Left (←)",
+                "key_value": 37,
+                "scan_code": 19936,
+                "description": ""
+            },
+            {
+                "level_value": 0,
+                "name": "Right (→)",
+                "key_value": 39,
+                "scan_code": 18656,
+                "description": ""
+            }
+        ]
+    },
+    "1": {
+        "level_value": 1,
+        "level_name": "顶级",
+        "keys": [
+            {
+                "level_value": 1,
+                "name": "Escape (Esc)",
+                "key_value": 27,
+                "scan_code": 256,
+                "description": ""
+            },
+            {
+                "level_value": 1,
+                "name": "Tab",
+                "key_value": 9,
+                "scan_code": 3840,
+                "description": ""
+            },
+            {
+                "level_value": 1,
+                "name": "Enter",
+                "key_value": 13,
+                "scan_code": 7168,
+                "description": ""
+            },
+            {
+                "level_value": 1,
+                "name": "Home",
+                "key_value": 36,
+                "scan_code": 18400,
+                "description": ""
+            },
+            {
+                "level_value": 1,
+                "name": "End",
+                "key_value": 35,
+                "scan_code": 20448,
+                "description": ""
+            },
+            {
+                "level_value": 1,
+                "name": "F2",
+                "key_value": 113,
+                "scan_code": 15360,
+                "description": ""
+            },
+            {
+                "level_value": 1,
+                "name": "F3",
+                "key_value": 114,
+                "scan_code": 15616,
+                "description": ""
+            },
+            {
+                "level_value": 1,
+                "name": "F12",
+                "key_value": 123,
+                "scan_code": 22528,
+                "description": ""
+            }
+        ]
+    },
+    "2": {
+        "level_value": 2,
+        "level_name": "人上人",
+        "keys": [
+            {
+                "level_value": 2,
+                "name": "Left Windows",
+                "key_value": 91,
+                "scan_code": 23520,
+                "description": ""
+            },
+            {
+                "level_value": 2,
+                "name": "Left Alt",
+                "key_value": 18,
+                "scan_code": 14336,
+                "description": ""
+            },
+            {
+                "level_value": 2,
+                "name": "Delete (Del)",
+                "key_value": 46,
+                "scan_code": 21472,
+                "description": ""
+            },
+            {
+                "level_value": 2,
+                "name": "Fn",
+                "key_value": -1,
+                "scan_code": -1,
+                "description": ""
+            }
+        ]
+    },
+    "3": {
+        "level_value": 3,
+        "level_name": "NPC",
+        "keys": [
+            {
+                "level_value": 3,
+                "name": "Right Shift",
+                "key_value": 16,
+                "scan_code": 13824,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "Right Ctrl",
+                "key_value": 17,
+                "scan_code": 7648,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "Print Scroll (Prt)",
+                "key_value": 44,
+                "scan_code": 14304,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "Scroll Look (Scr)",
+                "key_value": 145,
+                "scan_code": 17920,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "Pause Break (Pau)",
+                "key_value": 19,
+                "scan_code": 8928,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "Page Up (PgUp)",
+                "key_value": 33,
+                "scan_code": 18912,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "Page Down (PgDn)",
+                "key_value": 34,
+                "scan_code": 20960,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "Num Look (Num)",
+                "key_value": 144,
+                "scan_code": 17664,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad 0",
+                "key_value": 96,
+                "scan_code": 20992,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad 1",
+                "key_value": 97,
+                "scan_code": 20224,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad 2",
+                "key_value": 98,
+                "scan_code": 20480,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad 3",
+                "key_value": 99,
+                "scan_code": 20736,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad 4",
+                "key_value": 100,
+                "scan_code": 19200,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad 5",
+                "key_value": 101,
+                "scan_code": 19456,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad 6",
+                "key_value": 102,
+                "scan_code": 19712,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad 7",
+                "key_value": 103,
+                "scan_code": 18176,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad 8",
+                "key_value": 104,
+                "scan_code": 18432,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad 9",
+                "key_value": 105,
+                "scan_code": 18688,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad /",
+                "key_value": 111,
+                "scan_code": 13792,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad *",
+                "key_value": 106,
+                "scan_code": 14080,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad -",
+                "key_value": 109,
+                "scan_code": 18944,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad +",
+                "key_value": 107,
+                "scan_code": 19968,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad .",
+                "key_value": 110,
+                "scan_code": 21248,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "NumPad Enter",
+                "key_value": 13,
+                "scan_code": 7392,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "F5",
+                "key_value": 116,
+                "scan_code": 16128,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "F10",
+                "key_value": 121,
+                "scan_code": 17408,
+                "description": ""
+            },
+            {
+                "level_value": 3,
+                "name": "F11",
+                "key_value": 122,
+                "scan_code": 22272,
+                "description": ""
+            }
+        ]
+    },
+    "4": {
+        "level_value": 4,
+        "level_name": "拉",
+        "keys": [
+            {
+                "level_value": 4,
+                "name": "Caps Lock",
+                "key_value": 20,
+                "scan_code": 14848,
+                "description": ""
+            },
+            {
+                "level_value": 4,
+                "name": "Right Windows",
+                "key_value": 91,
+                "scan_code": 23776,
+                "description": ""
+            },
+            {
+                "level_value": 4,
+                "name": "Right Alt",
+                "key_value": 18,
+                "scan_code": 14560,
+                "description": ""
+            },
+            {
+                "level_value": 4,
+                "name": "Insert (Ins)",
+                "key_value": 45,
+                "scan_code": 21216,
+                "description": ""
+            },
+            {
+                "level_value": 4,
+                "name": "F1",
+                "key_value": 112,
+                "scan_code": 15104,
+                "description": ""
+            },
+            {
+                "level_value": 4,
+                "name": "F4",
+                "key_value": 115,
+                "scan_code": 15872,
+                "description": ""
+            },
+            {
+                "level_value": 4,
+                "name": "F6",
+                "key_value": 117,
+                "scan_code": 16384,
+                "description": ""
+            },
+            {
+                "level_value": 4,
+                "name": "F7",
+                "key_value": 118,
+                "scan_code": 16640,
+                "description": ""
+            },
+            {
+                "level_value": 4,
+                "name": "F8",
+                "key_value": 119,
+                "scan_code": 16896,
+                "description": ""
+            },
+            {
+                "level_value": 4,
+                "name": "F9",
+                "key_value": 120,
+                "scan_code": 17152,
+                "description": ""
+            }
+        ]
+    }
+}
