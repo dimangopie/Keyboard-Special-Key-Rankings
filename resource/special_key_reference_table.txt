@@ -1,0 +1,48 @@
+#Special Keys : abbreviation : Key Values(Dec) : Scan Code(Hex) : level(Dec) : description
+Escape              : Esc       : 27    : 01 00     : 1     : 按`ESC`退出哦! `ESC`是什么呀? 是`E+S+C`吗? (我: onz)
+Tab                 : Tab       : 9     : 0F 00     : 0     : tab补全, 伟大无需多言 :)
+Caps Lock           : CapsLock  : 20    : 3A 00     : 4     : 不如`Shift` (听说有人不会用`Shift`输入大写，只会用大写锁定)
+Left Windows        : Win       : 91    : 5B E0     : 2     : 多任务切换, 快速分屏, 效率党刚需
+Left Shift          : Shift     : 16    : 2A 00     : 0     : 代码大写信仰, 游戏冲刺王者, 人类进化标志
+Left Ctrl           : Ctrl      : 17    : 1D 00     : 0     : 你是`CV工程师`码? (偷偷告诉你，其实`Ctrl+X`可以当删除键用)
+Left Alt            : Alt       : 18    : 38 00     : 2     : 光标的无性繁殖这一块
+Space               : Space     : 32    : 39 00     : 0     : 不特殊的特殊键, 最实在的一集
+Backspace           : Backspace : 8     : 0E 00     : 0     : 删代码时与`Ctrl`更配哦!
+Enter               : Enter     : 13    : 1C 00     : 1     : 选择换行？还是选择确认？你选哪边？代码是愚蠢的. 已经喜欢上了？换行不会背叛的. 我们是一样的想法呢, 到时候就扔掉吧. 你, 太容易到手了. 别从我身边逃走. 我也喜欢那一点
+Right Windows       : R Win     : 91    : 5C E0     : 4     : 并非左手Win键的复制品, 因为扫描码不同 (并非并非)
+Right Shift         : R Shift   : 16    : 36 00     : 4     : 并非左手Ctrl键的复制品, 因为扫描码不同 (并非并非)
+Right Ctrl          : R Ctrl    : 17    : 1D E0     : 4     : 并非左手Shift键的复制品, 因为扫描码不同 (并非并非)
+Right Alt           : R Alt     : 18    : 38 E0     : 3     : 并非左手Shift键的复制品, 如果可以搭配键盘驱动编辑, 那么这个靠近空格的小按键还是有点用处的
+Print Scroll        : Prt       : 44    : 37 E0     : 2     : 系统自带, 可以用
+Scroll Look         : ScrLock   : 145   : 46 00     : 3     : Excel滚屏锁定器, 除了会计没人会计
+Pause Break         : Pause     : 19    : 22 E0     : 3     : 古董程序员古董调试古董键
+Insert              : Ins       : 45    : 52 E0     : 4     : 误触灾难制造者, 写论文时毁灭性打击
+Delete              : Del       : 46    : 53 E0     : 2     : 知道在终端中为什么只能用`Ctrl+Delete`没有`Ctrl+Backspace`吗？因为王不见王。
+Home                : Home      : 36    : 47 E0     : 1     : 代码行首一键直达, 那是家的感觉
+End                 : End       : 35    : 4F E0     : 1     : 写注释、调格式时和Enter是绝配哦，一键到行尾立刻换行
+Page Up             : PgUp      : 33    : 49 E0     : 3     : 不如鼠标滚轮
+Page Down           : PgDn      : 34    : 51 E0     : 3     : 不如鼠标滚轮
+Up                  : ↑         : 38    : 50 E0     : 0     : 命令行历史回溯 (`history`直言惭愧)
+Down                : ↓         : 40    : 4B E0     : 0     : 代码补全导航
+Left                : ←         : 37    : 4D E0     : 0     : 文本精细调整
+Right               : →         : 39    : 48 E0     : 0     : 光标移动核心 (`vim`曰: 不如`l`)
+Num Look            : Num       : 144   : 45 00     : 3     : 童年多人游戏的必备, 偶然搭配`iPython`当个计算器相当好用
+NumPad /            : Num /     : 111   : 35 E0     : 3     : 除号输入器, 不如手写快捷
+NumPad *            : Num *     : 106   : 37 00     : 3     : 乘号专用键, 使用频率低到可怜
+NumPad -            : Num -     : 109   : 4A 00     : 3     : 减号工具人, 被主键盘区完爆
+NumPad +            : Num +     : 107   : 4E 00     : 3     : 加号输入器, Excel偶尔用用
+NumPad .            : Num .     : 110   : 53 00     : 3     : 小数点专用, 输IP地址时勉强有用
+NumPad Enter        : Num Enter : 13    : 1C E0     : 3     : 主Enter键的跟班, 响应慢半拍
+F1                  : F1        : 112   : 3B 00     : 4     : 帮助键？现在都是AI解决
+F2                  : F2        : 113   : 3C 00     : 1     : 高级命名牌
+F3                  : F3        : 114   : 3D 00     : 2     : 玩MC的都懂 (冷知识 `F3`是搜索键, 相当于`Ctrl+F`)
+F4                  : F4        : 115   : 3E 00     : 4     : `Alt+F4`专用陪衬 (别试)
+F5                  : F5        : 116   : 3F 00     : 2     : `Intellij`的运行键 (这个项目就是用`Intellij`写的), 无聊时专用的刷新键
+F6                  : F6        : 117   : 40 00     : 4     : 你知道吗? `F6`是地址栏定位器
+F7                  : F7        : 118   : 41 00     : 4     : `Word`检查键, 但没人记得检查 (完美的`Word`无需多检)
+F8                  : F8        : 119   : 42 00     : 4     : 启动菜单键, 一辈子都用不了几次
+F9                  : F9        : 120   : 43 00     : 4     : Outlook收发键, 其他时候是摆设, 几辈子都用不了一次
+F10                 : F10       : 121   : 44 00     : 3     : (冷知识 `F3`是菜单键, 相当于鼠标右键)
+F11                 : F11       : 122   : 57 00     : 3     : 全屏切换键, 游戏或看网页偶尔用用
+F12                 : F12       : 123   : 58 00     : 1     : 小学生装黑客必备
+Fn                  : Fn        :       :           : 2     : 笔记本必备, 如果可以搭配键盘驱动编辑更是美味

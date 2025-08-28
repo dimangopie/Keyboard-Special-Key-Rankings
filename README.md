@@ -41,8 +41,8 @@
 ### `reference_table_for_scan_code.txt`
 包含键盘键的名称和对应的扫描码（十六进制）。此文件用于参考。📄
 
-## `main.py` 文档说明 📝
-`main.py` 是一个 Python 脚本，用于从 `special_key_reference_table.txt` 文件读取特殊键信息，并生成 `ranking.json` 文件。以下是脚本的主要功能：
+## `get_json_of_ranking.py` 文档说明 📝
+`get_json_of_ranking.py` 是一个 Python 脚本，用于从 `special_key_reference_table.txt` 文件读取特殊键信息，并生成 `ranking.json` 文件。以下是脚本的主要功能：
 1. 读取 `special_key_reference_table.txt` 文件中的每一行数据。
 2. 解析每一行的数据，提取键名、键值、扫描码和等级信息。
 3. 根据等级信息将特殊键信息添加到对应的等级列表中。
@@ -50,7 +50,7 @@
 
 运行脚本：
 ```bash
-python main.py
+python get_json_of_ranking.py
 ```
 
 ## `ranking.json`文档说明 📄
@@ -63,11 +63,11 @@ python main.py
           "level_name": "夯",
           "keys": [
               {
-                  "level_value": 0,
-                  "name": "Left Shift",
-                  "key_value": 16,
-                  "scan_code": 10752,
-                  "description": ""
+                "level_value": 0,
+                "name": "Space",
+                "key_value": 32,
+                "scan_code": 14592,
+                "description": "不特殊的特殊键, 最实在的一集"
               }
           ]
       }

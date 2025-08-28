@@ -5,14 +5,8 @@
         "keys": [
             {
                 "level_value": 0,
-                "name": "Tab",
-                "key_value": 9,
-                "scan_code": 3840,
-                "description": "tab补全一瞬间，皇帝老子不及吾"
-            },
-            {
-                "level_value": 0,
                 "name": "Left Shift",
+                "abbreviation": "Shift",
                 "key_value": 16,
                 "scan_code": 10752,
                 "description": "代码大写信仰, 游戏冲刺王者, 人类进化标志"
@@ -20,13 +14,15 @@
             {
                 "level_value": 0,
                 "name": "Left Ctrl",
+                "abbreviation": "Ctrl",
                 "key_value": 17,
                 "scan_code": 7424,
-                "description": "`Ctrl+C`, `Ctrl+V`这俩组合说是工程师的命根子，不过分吧？(偷偷告诉你，其实`Ctrl+X`可以当删除键用)"
+                "description": "你是`CV工程师`码? (偷偷告诉你，其实`Ctrl+X`可以当删除键用)"
             },
             {
                 "level_value": 0,
                 "name": "Space",
+                "abbreviation": "Space",
                 "key_value": 32,
                 "scan_code": 14592,
                 "description": "不特殊的特殊键, 最实在的一集"
@@ -34,37 +30,34 @@
             {
                 "level_value": 0,
                 "name": "Backspace",
+                "abbreviation": "Backspace",
                 "key_value": 8,
                 "scan_code": 3584,
                 "description": "删代码时与`Ctrl`更配哦!"
             },
             {
                 "level_value": 0,
-                "name": "Up (↑)",
+                "name": "Up",
+                "abbreviation": "↑",
                 "key_value": 38,
                 "scan_code": 20704,
                 "description": "命令行历史回溯 (`history`直言惭愧)"
             },
             {
                 "level_value": 0,
-                "name": "Down (↓)",
+                "name": "Down",
+                "abbreviation": "↓",
                 "key_value": 40,
                 "scan_code": 19424,
                 "description": "代码补全导航"
             },
             {
                 "level_value": 0,
-                "name": "Left (←)",
+                "name": "Left",
+                "abbreviation": "←",
                 "key_value": 37,
                 "scan_code": 19936,
                 "description": "文本精细调整"
-            },
-            {
-                "level_value": 0,
-                "name": "Fn",
-                "key_value": -1,
-                "scan_code": -1,
-                "description": "笔记本必备, 如果可以搭配键盘驱动编辑更是美味"
             }
         ]
     },
@@ -74,14 +67,8 @@
         "keys": [
             {
                 "level_value": 1,
-                "name": "Escape (Esc)",
-                "key_value": 27,
-                "scan_code": 256,
-                "description": "程序员debug救命键, 学生逃课神器, 游戏秒退快捷键"
-            },
-            {
-                "level_value": 1,
                 "name": "Enter",
+                "abbreviation": "Enter",
                 "key_value": 13,
                 "scan_code": 7168,
                 "description": "选择换行？还是选择确认？你选哪边？代码是愚蠢的. 已经喜欢上了？换行不会背叛的. 我们是一样的想法呢, 到时候就扔掉吧. 你, 太容易到手了. 别从我身边逃走. 我也喜欢那一点"
@@ -89,27 +76,31 @@
             {
                 "level_value": 1,
                 "name": "Home",
+                "abbreviation": "Home",
                 "key_value": 36,
                 "scan_code": 18400,
-                "description": "代码行首闪电定位, 论文开头一键直达, 那是家的感觉"
+                "description": "代码行首一键直达, 那是家的感觉"
             },
             {
                 "level_value": 1,
                 "name": "End",
+                "abbreviation": "End",
                 "key_value": 35,
                 "scan_code": 20448,
-                "description": "写注释、调格式时和Enter是绝配，一键到行尾立刻换行"
+                "description": "写注释、调格式时和Enter是绝配哦，一键到行尾立刻换行"
             },
             {
                 "level_value": 1,
                 "name": "F2",
+                "abbreviation": "F2",
                 "key_value": 113,
                 "scan_code": 15360,
-                "description": "高级买名牌"
+                "description": "高级命名牌"
             },
             {
                 "level_value": 1,
                 "name": "F12",
+                "abbreviation": "F12",
                 "key_value": 123,
                 "scan_code": 22528,
                 "description": "小学生装黑客必备"
@@ -123,34 +114,39 @@
             {
                 "level_value": 2,
                 "name": "Left Windows",
+                "abbreviation": "Win",
                 "key_value": 91,
                 "scan_code": 23520,
-                "description": "多任务切换高手, 快速启动和分屏超方便, 效率党刚需"
+                "description": "多任务切换, 快速分屏, 效率党刚需"
             },
             {
                 "level_value": 2,
                 "name": "Left Alt",
+                "abbreviation": "Alt",
                 "key_value": 18,
                 "scan_code": 14336,
-                "description": "`Ctrl+Alt` 其实比单用`Alt`还多"
+                "description": "光标的无性繁殖这一块"
             },
             {
                 "level_value": 2,
-                "name": "Print Scroll (Prt)",
+                "name": "Print Scroll",
+                "abbreviation": "Prt",
                 "key_value": 44,
                 "scan_code": 14304,
-                "description": "别小看，系统自带截图其实又快又稳"
+                "description": "系统自带, 可以用"
             },
             {
                 "level_value": 2,
-                "name": "Delete (Del)",
+                "name": "Delete",
+                "abbreviation": "Del",
                 "key_value": 46,
                 "scan_code": 21472,
-                "description": "文件删除终极键, 知道在终端中为什么只能用`Ctrl+Delete`没有`Ctrl+Backspace`吗？因为王不见王。"
+                "description": "知道在终端中为什么只能用`Ctrl+Delete`没有`Ctrl+Backspace`吗？因为王不见王。"
             },
             {
                 "level_value": 2,
                 "name": "F3",
+                "abbreviation": "F3",
                 "key_value": 114,
                 "scan_code": 15616,
                 "description": "玩MC的都懂 (冷知识 `F3`是搜索键, 相当于`Ctrl+F`)"
@@ -158,9 +154,18 @@
             {
                 "level_value": 2,
                 "name": "F5",
+                "abbreviation": "F5",
                 "key_value": 116,
                 "scan_code": 16128,
                 "description": "`Intellij`的运行键 (这个项目就是用`Intellij`写的), 无聊时专用的刷新键"
+            },
+            {
+                "level_value": 2,
+                "name": "Fn",
+                "abbreviation": "Fn",
+                "key_value": 0,
+                "scan_code": 0,
+                "description": "笔记本必备, 如果可以搭配键盘驱动编辑更是美味"
             }
         ]
     },
@@ -171,118 +176,55 @@
             {
                 "level_value": 3,
                 "name": "Right Alt",
+                "abbreviation": "R Alt",
                 "key_value": 18,
                 "scan_code": 14560,
-                "description": "如果可以搭配键盘驱动编辑, 那么这个靠近空格的小按键还是有点用处的"
+                "description": "并非左手Shift键的复制品, 如果可以搭配键盘驱动编辑, 那么这个靠近空格的小按键还是有点用处的"
             },
             {
                 "level_value": 3,
-                "name": "Scroll Look (Scr)",
+                "name": "Scroll Look",
+                "abbreviation": "ScrLock",
                 "key_value": 145,
                 "scan_code": 17920,
-                "description": "Excel滚屏锁定器, 除了会计没人碰"
+                "description": "Excel滚屏锁定器, 除了会计没人会计"
             },
             {
                 "level_value": 3,
-                "name": "Pause Break (Pau)",
+                "name": "Pause Break",
+                "abbreviation": "Pause",
                 "key_value": 19,
                 "scan_code": 8928,
                 "description": "古董程序员古董调试古董键"
             },
             {
                 "level_value": 3,
-                "name": "Page Up (PgUp)",
+                "name": "Page Up",
+                "abbreviation": "PgUp",
                 "key_value": 33,
                 "scan_code": 18912,
                 "description": "不如鼠标滚轮"
             },
             {
                 "level_value": 3,
-                "name": "Page Down (PgDn)",
+                "name": "Page Down",
+                "abbreviation": "PgDn",
                 "key_value": 34,
                 "scan_code": 20960,
                 "description": "不如鼠标滚轮"
             },
             {
                 "level_value": 3,
-                "name": "Num Look (Num)",
+                "name": "Num Look",
+                "abbreviation": "Num",
                 "key_value": 144,
                 "scan_code": 17664,
-                "description": "会计专用开关, 程序员直接无视, 但是说实话搭配`iPython`当个计算器无敌了"
-            },
-            {
-                "level_value": 3,
-                "name": "NumPad 0",
-                "key_value": 96,
-                "scan_code": 20992,
-                "description": "输密码专用, 其他时候吃灰 (骗你的, 输密码也不用)"
-            },
-            {
-                "level_value": 3,
-                "name": "NumPad 1",
-                "key_value": 97,
-                "scan_code": 20224,
-                "description": "计算器专属, AI都嫌功能单一"
-            },
-            {
-                "level_value": 3,
-                "name": "NumPad 2",
-                "key_value": 98,
-                "scan_code": 20480,
-                "description": "方向键下位替代, 响应延迟感人"
-            },
-            {
-                "level_value": 3,
-                "name": "NumPad 3",
-                "key_value": 99,
-                "scan_code": 20736,
-                "description": "数字输入工具人, 毫无灵魂"
-            },
-            {
-                "level_value": 3,
-                "name": "NumPad 4",
-                "key_value": 100,
-                "scan_code": 19200,
-                "description": "左方向键仿制品, 手感稀烂"
-            },
-            {
-                "level_value": 3,
-                "name": "NumPad 5",
-                "key_value": 101,
-                "scan_code": 19456,
-                "description": "盲打定位键, 除此之外毫无价值"
-            },
-            {
-                "level_value": 3,
-                "name": "NumPad 6",
-                "key_value": 102,
-                "scan_code": 19712,
-                "description": "右方向键的替身, 反应迟钝"
-            },
-            {
-                "level_value": 3,
-                "name": "NumPad 7",
-                "key_value": 103,
-                "scan_code": 18176,
-                "description": "Home键低配版, 定位缓慢"
-            },
-            {
-                "level_value": 3,
-                "name": "NumPad 8",
-                "key_value": 104,
-                "scan_code": 18432,
-                "description": "上方向键山寨版, 手感僵硬"
-            },
-            {
-                "level_value": 3,
-                "name": "NumPad 9",
-                "key_value": 105,
-                "scan_code": 18688,
-                "description": "PgUp键复制品, 误触率超高"
+                "description": "童年多人游戏的必备, 偶然搭配`iPython`当个计算器相当好用"
             },
             {
                 "level_value": 3,
                 "name": "NumPad /",
+                "abbreviation": "Num /",
                 "key_value": 111,
                 "scan_code": 13792,
                 "description": "除号输入器, 不如手写快捷"
@@ -290,6 +232,7 @@
             {
                 "level_value": 3,
                 "name": "NumPad *",
+                "abbreviation": "Num *",
                 "key_value": 106,
                 "scan_code": 14080,
                 "description": "乘号专用键, 使用频率低到可怜"
@@ -297,6 +240,7 @@
             {
                 "level_value": 3,
                 "name": "NumPad -",
+                "abbreviation": "Num -",
                 "key_value": 109,
                 "scan_code": 18944,
                 "description": "减号工具人, 被主键盘区完爆"
@@ -304,6 +248,7 @@
             {
                 "level_value": 3,
                 "name": "NumPad +",
+                "abbreviation": "Num +",
                 "key_value": 107,
                 "scan_code": 19968,
                 "description": "加号输入器, Excel偶尔用用"
@@ -311,6 +256,7 @@
             {
                 "level_value": 3,
                 "name": "NumPad .",
+                "abbreviation": "Num .",
                 "key_value": 110,
                 "scan_code": 21248,
                 "description": "小数点专用, 输IP地址时勉强有用"
@@ -318,6 +264,7 @@
             {
                 "level_value": 3,
                 "name": "NumPad Enter",
+                "abbreviation": "Num Enter",
                 "key_value": 13,
                 "scan_code": 7392,
                 "description": "主Enter键的跟班, 响应慢半拍"
@@ -325,6 +272,7 @@
             {
                 "level_value": 3,
                 "name": "F10",
+                "abbreviation": "F10",
                 "key_value": 121,
                 "scan_code": 17408,
                 "description": "(冷知识 `F3`是菜单键, 相当于鼠标右键)"
@@ -332,9 +280,10 @@
             {
                 "level_value": 3,
                 "name": "F11",
+                "abbreviation": "F11",
                 "key_value": 122,
                 "scan_code": 22272,
-                "description": "全屏切换键, 游戏看网页偶尔用用"
+                "description": "全屏切换键, 游戏或看网页偶尔用用"
             }
         ]
     },
@@ -345,6 +294,7 @@
             {
                 "level_value": 4,
                 "name": "Caps Lock",
+                "abbreviation": "CapsLock",
                 "key_value": 20,
                 "scan_code": 14848,
                 "description": "不如`Shift` (听说有人不会用`Shift`输入大写，只会用大写锁定)"
@@ -352,6 +302,7 @@
             {
                 "level_value": 4,
                 "name": "Right Windows",
+                "abbreviation": "R Win",
                 "key_value": 91,
                 "scan_code": 23776,
                 "description": "并非左手Win键的复制品, 因为扫描码不同 (并非并非)"
@@ -359,6 +310,7 @@
             {
                 "level_value": 4,
                 "name": "Right Shift",
+                "abbreviation": "R Shift",
                 "key_value": 16,
                 "scan_code": 13824,
                 "description": "并非左手Ctrl键的复制品, 因为扫描码不同 (并非并非)"
@@ -366,13 +318,15 @@
             {
                 "level_value": 4,
                 "name": "Right Ctrl",
+                "abbreviation": "R Ctrl",
                 "key_value": 17,
                 "scan_code": 7648,
                 "description": "并非左手Shift键的复制品, 因为扫描码不同 (并非并非)"
             },
             {
                 "level_value": 4,
-                "name": "Insert (Ins)",
+                "name": "Insert",
+                "abbreviation": "Ins",
                 "key_value": 45,
                 "scan_code": 21216,
                 "description": "误触灾难制造者, 写论文时毁灭性打击"
@@ -380,6 +334,7 @@
             {
                 "level_value": 4,
                 "name": "F1",
+                "abbreviation": "F1",
                 "key_value": 112,
                 "scan_code": 15104,
                 "description": "帮助键？现在都是AI解决"
@@ -387,6 +342,7 @@
             {
                 "level_value": 4,
                 "name": "F4",
+                "abbreviation": "F4",
                 "key_value": 115,
                 "scan_code": 15872,
                 "description": "`Alt+F4`专用陪衬 (别试)"
@@ -394,6 +350,7 @@
             {
                 "level_value": 4,
                 "name": "F6",
+                "abbreviation": "F6",
                 "key_value": 117,
                 "scan_code": 16384,
                 "description": "你知道吗? `F6`是地址栏定位器"
@@ -401,6 +358,7 @@
             {
                 "level_value": 4,
                 "name": "F7",
+                "abbreviation": "F7",
                 "key_value": 118,
                 "scan_code": 16640,
                 "description": "`Word`检查键, 但没人记得检查 (完美的`Word`无需多检)"
@@ -408,6 +366,7 @@
             {
                 "level_value": 4,
                 "name": "F8",
+                "abbreviation": "F8",
                 "key_value": 119,
                 "scan_code": 16896,
                 "description": "启动菜单键, 一辈子都用不了几次"
@@ -415,6 +374,7 @@
             {
                 "level_value": 4,
                 "name": "F9",
+                "abbreviation": "F9",
                 "key_value": 120,
                 "scan_code": 17152,
                 "description": "Outlook收发键, 其他时候是摆设, 几辈子都用不了一次"
