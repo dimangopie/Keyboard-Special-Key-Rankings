@@ -1,2 +1,5 @@
 resource/subtitle_video
 /src/media/
+/src/media/images/
+/src/media/texts/
+/src/media/videos/
