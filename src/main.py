@@ -252,6 +252,7 @@ class Screen(Scene) :
             self.play(key_label.animate_of_move_to_bar())
 
         SubtitleGenerator.animate_disappear(scene=self, fade_out_time=0.1)
+        self.wait(2)
         self.play(Screen.animate_of_thanks_for_watching(), run_time=3, rate_func=linear)
         self.wait(5)
 

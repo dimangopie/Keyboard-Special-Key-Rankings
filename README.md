@@ -30,6 +30,8 @@
    ```
 3. `PYTHON` 编译`manim`动画 🐍
     ```bash
+    python3 src/get_json_of_ranking.py
+    python3 src/make_subtitle.py # 可不运行 make_subtitle.py
     python3 src/main.py
     ```
 4. 提出你的修改建议： ✏️
@@ -54,7 +56,7 @@
 用于配合 `main.py` 的字幕生成器，生成音频文件，并生成在 `resource/subtitle_video` 文件下。
 
 ## `make_subtitle.py` 文档说明 📝
-`make_subtitle.py` 是一个 Python 脚本, 生成字幕哈希表
+`make_subtitle.py` 是一个 Python 脚本, 生成字幕表
 
 
 ## `get_json_of_ranking.py` 文档说明 📝
