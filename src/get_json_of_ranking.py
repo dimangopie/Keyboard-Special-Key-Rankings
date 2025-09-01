@@ -10,13 +10,14 @@ def parse_special_key_line(line: str) -> dict:
     """解析特殊键的一行数据，返回特殊键信息字典"""
     special_key_dict = {
         "level_value": -1,
+        "level_name": "",
         "name": "",
         "abbreviation": "",
         "key_value": -1,
         "scan_code": -1,
         "description": ""
     }
-    string_list = line.split(":")
+    string_list = line.split("%#")
     if len(string_list) != 6:
         return special_key_dict  # 返回默认值，表示解析失败
 
@@ -30,6 +31,7 @@ def parse_special_key_line(line: str) -> dict:
         special_key_dict["key_value"] = int(cleaned_list[2]) if cleaned_list[2] else 0
         special_key_dict["scan_code"] = int(cleaned_list[3].replace(' ', ''), base=16) if cleaned_list[3] else 0
         special_key_dict["level_value"] = int(cleaned_list[4]) if cleaned_list[4] else 3
+        special_key_dict["level_name"] = ["夯","顶级","人上人","NPC","拉",][special_key_dict["level_value"]]
         special_key_dict["description"] = cleaned_list[5]
     except ValueError:
         print(f"解析错误: {line}")
@@ -44,8 +46,8 @@ def load_special_keys(file_path: str) -> list:
             if line.startswith("#"):
                 continue  # 跳过注释行
             special_key_info = parse_special_key_line(line)
-            if special_key_info["level_value"] != -1:  # 只添加成功解析的特殊键
-                special_key_list.append(special_key_info)
+            special_key_list.append(special_key_info)
+    print(f"总共: {len(special_key_list)}个`Special Key`")
     return special_key_list
 
 

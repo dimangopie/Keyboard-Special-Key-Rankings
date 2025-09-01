@@ -5,6 +5,16 @@
         "keys": [
             {
                 "level_value": 0,
+                "level_name": "夯",
+                "name": "Tab",
+                "abbreviation": "Tab",
+                "key_value": 9,
+                "scan_code": 3840,
+                "description": "tab补全, 伟大无需多言 :)"
+            },
+            {
+                "level_value": 0,
+                "level_name": "夯",
                 "name": "Left Shift",
                 "abbreviation": "Shift",
                 "key_value": 16,
@@ -13,14 +23,16 @@
             },
             {
                 "level_value": 0,
+                "level_name": "夯",
                 "name": "Left Ctrl",
                 "abbreviation": "Ctrl",
                 "key_value": 17,
                 "scan_code": 7424,
-                "description": "你是`CV工程师`码? (偷偷告诉你，其实`Ctrl+X`可以当删除键用)"
+                "description": "你是`CV工程师`码?\\n (偷偷告诉你，其实`Ctrl+X`可以当删除键用)"
             },
             {
                 "level_value": 0,
+                "level_name": "夯",
                 "name": "Space",
                 "abbreviation": "Space",
                 "key_value": 32,
@@ -29,6 +41,7 @@
             },
             {
                 "level_value": 0,
+                "level_name": "夯",
                 "name": "Backspace",
                 "abbreviation": "Backspace",
                 "key_value": 8,
@@ -37,6 +50,7 @@
             },
             {
                 "level_value": 0,
+                "level_name": "夯",
                 "name": "Up",
                 "abbreviation": "↑",
                 "key_value": 38,
@@ -45,6 +59,7 @@
             },
             {
                 "level_value": 0,
+                "level_name": "夯",
                 "name": "Down",
                 "abbreviation": "↓",
                 "key_value": 40,
@@ -53,11 +68,21 @@
             },
             {
                 "level_value": 0,
+                "level_name": "夯",
                 "name": "Left",
                 "abbreviation": "←",
                 "key_value": 37,
                 "scan_code": 19936,
                 "description": "文本精细调整"
+            },
+            {
+                "level_value": 0,
+                "level_name": "夯",
+                "name": "Right",
+                "abbreviation": "→",
+                "key_value": 39,
+                "scan_code": 18656,
+                "description": "光标移动核心 (`vim`曰: 不如`l`)"
             }
         ]
     },
@@ -67,14 +92,25 @@
         "keys": [
             {
                 "level_value": 1,
+                "level_name": "顶级",
+                "name": "Escape",
+                "abbreviation": "Esc",
+                "key_value": 27,
+                "scan_code": 256,
+                "description": "按`ESC键`退出哦!\\n `ESC键`是什么呀? 是`E+S+C`吗?\\n (我: onz)"
+            },
+            {
+                "level_value": 1,
+                "level_name": "顶级",
                 "name": "Enter",
                 "abbreviation": "Enter",
                 "key_value": 13,
                 "scan_code": 7168,
-                "description": "选择换行？还是选择确认？你选哪边？代码是愚蠢的. 已经喜欢上了？换行不会背叛的. 我们是一样的想法呢, 到时候就扔掉吧. 你, 太容易到手了. 别从我身边逃走. 我也喜欢那一点"
+                "description": "播放:双生抉择进行曲.mp3\\n 选择换行？还是选择确认\\n 你选哪边？代码是愚蠢的.\\n 已经喜欢上了？\\n 换行不会背叛的.\\n 我们是一样的想法呢, 到时候就扔掉吧.\\n 你, 太容易到手了.\\n 别从我身边逃走. 我也喜欢那一点"
             },
             {
                 "level_value": 1,
+                "level_name": "顶级",
                 "name": "Home",
                 "abbreviation": "Home",
                 "key_value": 36,
@@ -83,14 +119,16 @@
             },
             {
                 "level_value": 1,
+                "level_name": "顶级",
                 "name": "End",
                 "abbreviation": "End",
                 "key_value": 35,
                 "scan_code": 20448,
-                "description": "写注释、调格式时和Enter是绝配哦，一键到行尾立刻换行"
+                "description": "写注释、调格式时和Enter是绝配哦\\n 一键到行尾立刻换行"
             },
             {
                 "level_value": 1,
+                "level_name": "顶级",
                 "name": "F2",
                 "abbreviation": "F2",
                 "key_value": 113,
@@ -99,6 +137,7 @@
             },
             {
                 "level_value": 1,
+                "level_name": "顶级",
                 "name": "F12",
                 "abbreviation": "F12",
                 "key_value": 123,
@@ -113,6 +152,7 @@
         "keys": [
             {
                 "level_value": 2,
+                "level_name": "人上人",
                 "name": "Left Windows",
                 "abbreviation": "Win",
                 "key_value": 91,
@@ -121,6 +161,7 @@
             },
             {
                 "level_value": 2,
+                "level_name": "人上人",
                 "name": "Left Alt",
                 "abbreviation": "Alt",
                 "key_value": 18,
@@ -129,6 +170,7 @@
             },
             {
                 "level_value": 2,
+                "level_name": "人上人",
                 "name": "Print Scroll",
                 "abbreviation": "Prt",
                 "key_value": 44,
@@ -137,14 +179,16 @@
             },
             {
                 "level_value": 2,
+                "level_name": "人上人",
                 "name": "Delete",
                 "abbreviation": "Del",
                 "key_value": 46,
                 "scan_code": 21472,
-                "description": "知道在终端中为什么只能用`Ctrl+Delete`没有`Ctrl+Backspace`吗？因为王不见王。"
+                "description": "知道在终端中为什么只能用`Ctrl+Delete`没有`Ctrl+Backspace`吗？\\n 因为王不见王。"
             },
             {
                 "level_value": 2,
+                "level_name": "人上人",
                 "name": "F3",
                 "abbreviation": "F3",
                 "key_value": 114,
@@ -153,19 +197,21 @@
             },
             {
                 "level_value": 2,
+                "level_name": "人上人",
                 "name": "F5",
                 "abbreviation": "F5",
                 "key_value": 116,
                 "scan_code": 16128,
-                "description": "`Intellij`的运行键 (这个项目就是用`Intellij`写的), 无聊时专用的刷新键"
+                "description": "`VScode`的运行键 (但项目是用`Intellij`写的).\\n 无聊时专用的刷新键"
             },
             {
                 "level_value": 2,
+                "level_name": "人上人",
                 "name": "Fn",
                 "abbreviation": "Fn",
                 "key_value": 0,
                 "scan_code": 0,
-                "description": "笔记本必备, 如果可以搭配键盘驱动编辑更是美味"
+                "description": "笔记本必备, 如果可以搭配键盘驱动编辑更是美味 :)"
             }
         ]
     },
@@ -175,22 +221,25 @@
         "keys": [
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "Right Alt",
                 "abbreviation": "R Alt",
                 "key_value": 18,
                 "scan_code": 14560,
-                "description": "并非左手Shift键的复制品, 如果可以搭配键盘驱动编辑, 那么这个靠近空格的小按键还是有点用处的"
+                "description": "并非左手Shift键的复制品\\n 如果可以搭配键盘驱动编辑, 那么这个靠近空格的小按键还是有点用处的"
             },
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "Scroll Look",
                 "abbreviation": "ScrLock",
                 "key_value": 145,
                 "scan_code": 17920,
-                "description": "Excel滚屏锁定器, 除了会计没人会计"
+                "description": "Excel滚屏锁定器\\n 除了会计没人会计"
             },
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "Pause Break",
                 "abbreviation": "Pause",
                 "key_value": 19,
@@ -199,6 +248,7 @@
             },
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "Page Up",
                 "abbreviation": "PgUp",
                 "key_value": 33,
@@ -207,6 +257,7 @@
             },
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "Page Down",
                 "abbreviation": "PgDn",
                 "key_value": 34,
@@ -215,14 +266,16 @@
             },
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "Num Look",
                 "abbreviation": "Num",
                 "key_value": 144,
                 "scan_code": 17664,
-                "description": "童年多人游戏的必备, 偶然搭配`iPython`当个计算器相当好用"
+                "description": "童年多人游戏的必备. \\n偶然搭配`iPython`当个计算器相当好用"
             },
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "NumPad /",
                 "abbreviation": "Num /",
                 "key_value": 111,
@@ -231,6 +284,7 @@
             },
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "NumPad *",
                 "abbreviation": "Num *",
                 "key_value": 106,
@@ -239,6 +293,7 @@
             },
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "NumPad -",
                 "abbreviation": "Num -",
                 "key_value": 109,
@@ -247,6 +302,7 @@
             },
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "NumPad +",
                 "abbreviation": "Num +",
                 "key_value": 107,
@@ -255,6 +311,7 @@
             },
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "NumPad .",
                 "abbreviation": "Num .",
                 "key_value": 110,
@@ -263,6 +320,7 @@
             },
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "NumPad Enter",
                 "abbreviation": "Num Enter",
                 "key_value": 13,
@@ -271,6 +329,7 @@
             },
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "F10",
                 "abbreviation": "F10",
                 "key_value": 121,
@@ -279,6 +338,7 @@
             },
             {
                 "level_value": 3,
+                "level_name": "NPC",
                 "name": "F11",
                 "abbreviation": "F11",
                 "key_value": 122,
@@ -293,54 +353,61 @@
         "keys": [
             {
                 "level_value": 4,
+                "level_name": "拉",
                 "name": "Caps Lock",
                 "abbreviation": "CapsLock",
                 "key_value": 20,
                 "scan_code": 14848,
-                "description": "不如`Shift` (听说有人不会用`Shift`输入大写，只会用大写锁定)"
+                "description": "不如`Shift`\\n (听说有人不会用`Shift`输入大写，只会用大写锁定)"
             },
             {
                 "level_value": 4,
+                "level_name": "拉",
                 "name": "Right Windows",
                 "abbreviation": "R Win",
                 "key_value": 91,
                 "scan_code": 23776,
-                "description": "并非左手Win键的复制品, 因为扫描码不同 (并非并非)"
+                "description": "并非左手Win键的复制品\\n 因为扫描码不同 (并非并非)"
             },
             {
                 "level_value": 4,
+                "level_name": "拉",
                 "name": "Right Shift",
                 "abbreviation": "R Shift",
                 "key_value": 16,
                 "scan_code": 13824,
-                "description": "并非左手Ctrl键的复制品, 因为扫描码不同 (并非并非)"
+                "description": "并非左手Ctrl键的复制品\\n 因为扫描码不同 (并非并非)"
             },
             {
                 "level_value": 4,
+                "level_name": "拉",
                 "name": "Right Ctrl",
                 "abbreviation": "R Ctrl",
                 "key_value": 17,
                 "scan_code": 7648,
-                "description": "并非左手Shift键的复制品, 因为扫描码不同 (并非并非)"
+                "description": "并非左手Shift键的复制品\\n 因为扫描码不同 (并非并非)"
             },
             {
                 "level_value": 4,
+                "level_name": "拉",
                 "name": "Insert",
                 "abbreviation": "Ins",
                 "key_value": 45,
                 "scan_code": 21216,
-                "description": "误触灾难制造者, 写论文时毁灭性打击"
+                "description": "误触灾难区, 小白得上网求救至少24小时\\n (vim大佬: 有那么夸张吗?)"
             },
             {
                 "level_value": 4,
+                "level_name": "拉",
                 "name": "F1",
                 "abbreviation": "F1",
                 "key_value": 112,
                 "scan_code": 15104,
-                "description": "帮助键？现在都是AI解决"
+                "description": "帮助键？但是现在看文档不如看AI"
             },
             {
                 "level_value": 4,
+                "level_name": "拉",
                 "name": "F4",
                 "abbreviation": "F4",
                 "key_value": 115,
@@ -349,22 +416,25 @@
             },
             {
                 "level_value": 4,
+                "level_name": "拉",
                 "name": "F6",
                 "abbreviation": "F6",
                 "key_value": 117,
                 "scan_code": 16384,
-                "description": "你知道吗? `F6`是地址栏定位器"
+                "description": "你知道吗?\\n `F6`是地址栏定位器"
             },
             {
                 "level_value": 4,
+                "level_name": "拉",
                 "name": "F7",
                 "abbreviation": "F7",
                 "key_value": 118,
                 "scan_code": 16640,
-                "description": "`Word`检查键, 但没人记得检查 (完美的`Word`无需多检)"
+                "description": "你知道吗?\\n `Word`检查键 (完美的`Word`无需多检)"
             },
             {
                 "level_value": 4,
+                "level_name": "拉",
                 "name": "F8",
                 "abbreviation": "F8",
                 "key_value": 119,
@@ -373,6 +443,7 @@
             },
             {
                 "level_value": 4,
+                "level_name": "拉",
                 "name": "F9",
                 "abbreviation": "F9",
                 "key_value": 120,
